@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Valloche
+- 👋 Hi, I’m @ValentinGaudin
 - 👀 I’m interested in my formation of coding
 - 🌱 I’m currently learning HTML, CSS, JS
 - 💞️ I’m looking to collaborate on 

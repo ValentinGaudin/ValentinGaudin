@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @ValentinGaudin
 - 👀 I’m interested in my formation of coding
-- 🌱 I’m currently learning HTML, CSS, JS
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me :  https://www.linkedin.com/in/valentin-gaudin-67bb01196/
+- 🌱 I’m currently learning HTML, CSS, PHP(Symfony) & JS (React.JS)
+- 💞️ I’m looking to collaborate.
+- 📫 How to reach me :  https://www.linkedin.com/in/gaudinvalentin/
+- 📧 With my e-mail : valentingaudin@gmail.com
 
 <!---
 Valloche/Valloche is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

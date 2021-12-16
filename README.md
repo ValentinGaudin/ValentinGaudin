@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ValentinGaudin
 - 👀 I’m interested in my formation of coding
-- 🌱 I’m currently learning HTML, CSS, PHP(Symfony) & JS (React.JS)
+- 🌱 I’m currently learning HTML, CSS, PHP(Symfony) & JS (Next.js)
 - 💞️ I’m looking to collaborate.
 - 📫 How to reach me :  https://www.linkedin.com/in/gaudinvalentin/
 - 📧 With my e-mail : valentingaudin@gmail.com

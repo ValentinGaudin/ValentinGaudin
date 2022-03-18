@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Symfony**
 
-- 🌱 I’m currently learning **ReactJs & NodeJs, Flutter**
+- 🌱 I’m currently learning **ReactJs, TypeScript & NodeJs, Swift**
 
 - 👨‍💻 All of my projects are available at [www.valentingaudin.io](www.valentingaudin.io)
 

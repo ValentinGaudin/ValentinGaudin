@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **Symfony**
 
-- 🌱 I’m currently learning **ReactJs, TypeScript & NodeJs, Swift**
+- 🌱 I’m currently learning **ReactJs, ReactNative TypeScript**
 
 - 👨‍💻 All of my projects are available at [www.valentingaudin.io](www.valentingaudin.io)
 
-- 💬 Ask me about **Symfony and PHP**
+- 💬 Ask me about **PHP, Symfony and Laravel**
 
 - 📫 How to reach me **valentingaudin@gmail.com**
 
